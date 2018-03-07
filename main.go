@@ -1,7 +1,7 @@
 // GoStraightLine is a straight line program interpreter
 package main
 
-import "./interpreter"
+import "github.com/byliuyang/GoStraightLine/interpreter"
 
 func main() {
 	program := interpreter.CompoundStatement{
